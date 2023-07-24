@@ -34,10 +34,9 @@ To run the application, follow these steps:
 
 Unit tests have been implemented to ensure the correctness of the application's functionality. To run the tests:
 
-1. Clone the repository: https://github.com/Heshan-Qiu/WordStatsTest
-2. Open the test project in Visual Studio Code.
-3. Build the solution.
-4. Run the tests.
+1. Open the test project in Visual Studio Code.
+2. Build the solution.
+3. Run the tests.
 
 ## Conclusion
 
