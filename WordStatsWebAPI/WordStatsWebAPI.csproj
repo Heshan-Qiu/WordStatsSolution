@@ -9,5 +9,14 @@
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
+  
+  <ItemGroup>
+    <Reference Include="NLipsum.Core">
+      <HintPath>NLipsum.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="RandomWords">
+      <HintPath>RandomWords.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 
 </Project>
